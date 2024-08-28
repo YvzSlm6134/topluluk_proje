@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670489290166",
+    "project_id": "deneme-proje-24929",
+    "storage_bucket": "deneme-proje-24929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670489290166:android:bfa51248d81ca34c988d17",
+        "android_client_info": {
+          "package_name": "com.example.topluluk_proje"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQBhitlZ2NX6uX_EmuEjc1Hl8OfsYaWzw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
